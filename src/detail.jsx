@@ -1,7 +1,7 @@
 import React from "react";
 
 const detail = () => {
-  return <div>디테일페이지입니다</div>;
+  return <div>This is detail page</div>;
 };
 
 export default detail;
